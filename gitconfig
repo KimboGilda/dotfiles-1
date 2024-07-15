@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = nbakojohn13@gmail.com
+	name = nikos bakogiannis
